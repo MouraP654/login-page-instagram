@@ -1,6 +1,8 @@
 # Projeto: Recriar a tela de login do Instagram :man_technologist:
 
-Projeto sendo realizar por meio da Digital Innovation One para o BootCamp Decola Dev Avanade 2021.
+Projeto sendo realizado por meio da Digital Innovation One para o BootCamp Decola Dev Avanade 2021 ministrado pela professora Gabriela Pinheiro.
+
+Projeto foi criado com o intuito de apresentar o conceito de flex-box e responsividade.
 
 ### Tecnologias Utilizadas:
 
