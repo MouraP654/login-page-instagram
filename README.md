@@ -6,8 +6,9 @@ Projeto foi criado com o intuito de apresentar o conceito de flex-box e responsi
 
 ### Tecnologias Utilizadas:
 
-- Html5
+- Html5​ :page_facing_up:
 
-- CSS
+- CSS ​ ​ ​ ​ :art:
 
   
+
